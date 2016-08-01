@@ -1,0 +1,24 @@
+C:\Users\Josh\Desktop\ConnectFour\ConnectFour\bin\Debug\ConnectFour.exe.config
+C:\Users\Josh\Desktop\ConnectFour\ConnectFour\obj\Debug\ConnectFour.csprojResolveAssemblyReference.cache
+C:\Users\Josh\Desktop\ConnectFour\ConnectFour\obj\Debug\ConnectFour.Form1.resources
+C:\Users\Josh\Desktop\ConnectFour\ConnectFour\obj\Debug\ConnectFour.Properties.Resources.resources
+C:\Users\Josh\Desktop\ConnectFour\ConnectFour\obj\Debug\ConnectFour.csproj.GenerateResource.Cache
+C:\Users\Josh\Desktop\ConnectFour\ConnectFour\bin\Debug\ConnectFour.exe
+C:\Users\Josh\Desktop\ConnectFour\ConnectFour\bin\Debug\ConnectFour.pdb
+C:\Users\Josh\Desktop\ConnectFour\ConnectFour\obj\Debug\ConnectFour.exe
+C:\Users\Josh\Desktop\ConnectFour\ConnectFour\obj\Debug\ConnectFour.pdb
+F:\everything\ConnectFour\ConnectFour\bin\Debug\ConnectFour.exe.config
+F:\everything\ConnectFour\ConnectFour\obj\Debug\ConnectFour.exe
+F:\everything\ConnectFour\ConnectFour\obj\Debug\ConnectFour.pdb
+F:\everything\ConnectFour\ConnectFour\bin\Debug\ConnectFour.exe
+F:\everything\ConnectFour\ConnectFour\bin\Debug\ConnectFour.pdb
+F:\everything\ConnectFour\ConnectFour\obj\Debug\ConnectFour.csprojResolveAssemblyReference.cache
+F:\everything\ConnectFour\ConnectFour\obj\Debug\ConnectFour.Form1.resources
+F:\everything\ConnectFour\ConnectFour\obj\Debug\ConnectFour.Properties.Resources.resources
+F:\everything\ConnectFour\ConnectFour\obj\Debug\ConnectFour.csproj.GenerateResource.Cache
+C:\Users\Josh\Desktop\Projects\ConnectFour\ConnectFour\bin\Debug\ConnectFour.exe.config
+C:\Users\Josh\Desktop\Projects\ConnectFour\ConnectFour\obj\Debug\ConnectFour.exe
+C:\Users\Josh\Desktop\Projects\ConnectFour\ConnectFour\obj\Debug\ConnectFour.pdb
+C:\Users\Josh\Desktop\Projects\Connect Four AI\ConnectFour\bin\Debug\ConnectFour.exe.config
+C:\Users\Josh\Desktop\Projects\Connect Four AI\ConnectFour\obj\Debug\ConnectFour.exe
+C:\Users\Josh\Desktop\Projects\Connect Four AI\ConnectFour\obj\Debug\ConnectFour.pdb
